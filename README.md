@@ -23,34 +23,7 @@ The project comprises of:
 * A client that can send a "hello" to an account and get back the number of
   times "hello" has been sent
 
-## Translations
-- [Traditional Chinese](README_ZH_TW.md)
-- [Simplified Chinese](README_ZH_CN.md)
 
-## Table of Contents
-- [Hello world on Solana](#hello-world-on-solana)
-  - [Table of Contents](#table-of-contents)
-  - [Quick Start](#quick-start)
-    - [Configure CLI](#configure-cli)
-    - [Start local Solana cluster](#start-local-solana-cluster)
-    - [Install npm dependencies](#install-npm-dependencies)
-    - [Build the on-chain program](#build-the-on-chain-program)
-    - [Deploy the on-chain program](#deploy-the-on-chain-program)
-    - [Run the JavaScript client](#run-the-javascript-client)
-    - [Expected output](#expected-output)
-      - [Not seeing the expected output?](#not-seeing-the-expected-output)
-    - [Customizing the Program](#customizing-the-program)
-  - [Learn about Solana](#learn-about-solana)
-  - [Learn about the client](#learn-about-the-client)
-    - [Entrypoint](#entrypoint)
-    - [Establish a connection to the cluster](#establish-a-connection-to-the-cluster)
-    - [Load the helloworld on-chain program if not already loaded](#load-the-helloworld-on-chain-program-if-not-already-loaded)
-    - [Send a "Hello" transaction to the on-chain program](#send-a-hello-transaction-to-the-on-chain-program)
-    - [Query the Solana account used in the "Hello" transaction](#query-the-solana-account-used-in-the-hello-transaction)
-  - [Learn about the on-chain program](#learn-about-the-on-chain-program)
-    - [Programming on Solana](#programming-on-Solana)
-  - [Pointing to a public Solana cluster](#pointing-to-a-public-solana-cluster)
-  - [Expand your skills with advanced examples](#expand-your-skills-with-advanced-examples)
 
 ## Quick Start
 
