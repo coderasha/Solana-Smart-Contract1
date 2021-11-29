@@ -1,15 +1,4 @@
-<p align="center">
-  <a href="https://solana.com">
-    <img alt="Solana" src="https://i.imgur.com/uBVzyX3.png" width="250" />
-  </a>
-</p>
 
-[![Build status][travis-image]][travis-url] [![Gitpod
-Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/solana-labs/example-helloworld)
-
-[travis-image]:
-https://travis-ci.org/solana-labs/example-helloworld.svg?branch=master
-[travis-url]: https://travis-ci.org/solana-labs/example-helloworld
 
 # Hello world on Solana
 
@@ -242,15 +231,4 @@ To point back to the local cluster:
 solana config set --url localhost
 ```
 
-## Expand your skills with advanced examples
 
-There is lots more to learn; The following examples demonstrate more advanced
-features like custom errors, advanced account handling, suggestions for data
-serialization, benchmarking, etc...
-
-- [Programming
-  Examples](https://github.com/solana-labs/solana-program-library/tree/master/examples)
-- [Token
-  Program](https://github.com/solana-labs/solana-program-library/tree/master/token)
-- [Token Swap
-  Program](https://github.com/solana-labs/solana-program-library/tree/master/token-swap)
